@@ -6,9 +6,9 @@ an unsecured network.</p>
 
 # Project Team Members :
 <ul>
-<li><b>Awanit Ranjan (181CO161) </b></li>
-<li><b>Rutwik Mulay (181CO144)</b></li>
-<li><b>Kshitij Raj (181CO129) </b></li>
+<li><b>Emily Sheraphia(1MS22CS052) </b></li>
+<li><b>Ajay Reddy(1MS22CS019)</b></li>
+<li><b>Adil A(1MS22CS009) </b></li>
 </ul>
 
 <br>
